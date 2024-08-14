@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "F3BcfxWSPVg7YSs58GFsOVelsigHbRsuxXVNsxV7w7URP0cd6tCACavDkBDNouPp+8EtMsIuu98OA3DsFZd5sg==",
+  "dgSpecHash": "BRXFIsnqkng=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\SelectionStatementExercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Antonio_Figueroa\\source\\repos\\TrueCoders\\Selection-Statements-Exercise\\SelectionStatementExercise\\SelectionStatementExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antonio_Figueroa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Antonio_Figueroa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Antonio_Figueroa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Antonio_Figueroa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
